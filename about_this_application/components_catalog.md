@@ -1,7 +1,7 @@
-# 1.3 Components catalog
+# Components catalog
 
 <br>
-### 3. Catalog of Materialize controls as Aurelia components.
+### Catalog of Materialize controls as Aurelia components.
 <br>
 This is the most likely fashion this application is being used. Invoked via URL: **<a href="http://aurelia-ui-toolkits.github.io/aurelia-materialize-catalog">http://aurelia-ui-toolkits.github.io/aurelia-materialize-catalog</a>** the application renders the view shown below, which shows an overview of components provided by this bridge.
 
