@@ -1,2 +1,0 @@
-# Aurelia Materialize Bridge
-
