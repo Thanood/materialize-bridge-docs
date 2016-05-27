@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Intro](README.md)
 * [1. About this application](about_this_application.md)
    * [1.1 Introduction](about_this_application/introduction.md)
    * [1.2 Navigation guide](about_this_application/navigation_guide.md)
