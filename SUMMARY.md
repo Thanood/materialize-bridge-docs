@@ -15,4 +15,5 @@
    * [2.3 Select component](app_developers_tutorial/select_component.md)
    * 2.4 Button component
    * 2.5 Slider component
+   * 2.6 Collapsible component
 
