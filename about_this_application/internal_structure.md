@@ -31,7 +31,7 @@ The plugin's **`src`** folder contains the **`common`**  subfolder with utilitie
 **Note:** At the time of writing this, not all components have been implemented. There are more available than this screenshot shows.
 <br><br>
 
-The code in the plugin (which is the JavaScript equivalent of the more general concept of **[dynamic linker](https://en.wikipedia.org/wiki/Dynamic_linker)**) defines its content via the `config-builder.js` file
+The code in the plugin defines its content via the `config-builder.js` file
 <br>
 
 ##### File `config-builder.js`
