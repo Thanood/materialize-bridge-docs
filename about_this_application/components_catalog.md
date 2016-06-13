@@ -1,4 +1,4 @@
-# Components catalog
+# 3. Components catalog
 
 <br>
 ### Catalog of Materialize controls as Aurelia components.
