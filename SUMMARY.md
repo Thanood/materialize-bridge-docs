@@ -12,4 +12,5 @@
 * [2. App developers tutorial](app_developers_tutorial.md)
    * [2.1 Introduction](app_developers_tutorial/introduction.md)
    * [2.2 Setup](app_developers_tutorial/setup.md)
+   * 2.3 Select component
 
