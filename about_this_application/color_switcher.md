@@ -1,4 +1,4 @@
-# 7. Color switcher
+# Color switcher
 <br>
 
 
