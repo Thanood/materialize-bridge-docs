@@ -1,4 +1,4 @@
-# 2. Setup
+# Setup
 <br>
 
 Most people like explanations that are done in the context of doing what is just being explained - so let's do something very simple as the first step in showing how to use Materialize bridge. We will add several interesting pages rendering Materialize controls to the well known **Aurelia Skeleton Navigation**, a starter kit for building a standard navigation-style app with Aurelia.
