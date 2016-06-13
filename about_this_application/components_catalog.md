@@ -3,7 +3,7 @@
 <br>
 ### Catalog of Materialize controls as Aurelia components.
 <br>
-This is the most likely fashion this application is being used. Invoked via URL: **<a href="http://aurelia-ui-toolkits.github.io/aurelia-materialize-catalog">http://aurelia-ui-toolkits.github.io/aurelia-materialize-catalog</a>** the application renders the view shown below, which shows an overview of components provided by this bridge.
+This is the most likely fashion this application is being used. Invoked via URL: **<a href="http://aurelia-ui-toolkits.github.io/demo-materialize/">http://aurelia-ui-toolkits.github.io/demo-materialize/</a>** the application renders the view shown below, which shows an overview of components provided by this bridge.
 
 <br>
 <p align=center>
