@@ -1,4 +1,4 @@
-# 5. Installation
+# Installation
 <br>
 
 The **[Installation page](#/installation)** contains a detailed description on how to install Aurelia-Materialize bridge.
