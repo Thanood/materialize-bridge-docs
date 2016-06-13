@@ -1,4 +1,4 @@
-# Application's internal structure
+# 4. Application's internal structure
 
 <a name="anch1"></a>This article presents the overview of the internal organization of the **[Aurelia-Materialize-Bridge](https://github.com/aurelia-ui-toolkits/aurelia-materialize-bridge)** project developed by the team of Aurelia UI Toolkits organization, dedicated to help  Aurelia's wide spread adoption .
 
