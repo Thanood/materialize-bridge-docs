@@ -1,4 +1,4 @@
-# 1. Introduction
+# Introduction
 <br>
 
 The collection of articles contained in this **App developers tutorials** help category presents several short tutorials on using the **[Materialize components](http://aurelia-ui-toolkits.github.io/demo-materialize/#/help/docs/about_this_application/2._components_catalog)** from **[Aurelia-Materialize bridge](https://github.com/aurelia-ui-toolkits/aurelia-materialize-bridge)** Aurelia plugin.
