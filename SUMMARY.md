@@ -13,4 +13,5 @@
    * [2.1 Introduction](app_developers_tutorial/introduction.md)
    * [2.2 Setup](app_developers_tutorial/setup.md)
    * [2.3 Select component](app_developers_tutorial/select_component.md)
+   * 2.4 Button component
 
