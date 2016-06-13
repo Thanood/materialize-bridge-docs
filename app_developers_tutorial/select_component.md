@@ -1,4 +1,4 @@
-# 3. Select component
+# Select component
 <br>
 
 Citation from **[Aurelia Documentation](http://aurelia.io/docs.html#/aurelia/framework/1.0.0-beta.1.0.7/doc/article/creating-components)**
