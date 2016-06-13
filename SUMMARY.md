@@ -16,4 +16,5 @@
    * 2.4 Button component
    * 2.5 Slider component
    * 2.6 Collapsible component
+   * 2.7 What you need to know
 
