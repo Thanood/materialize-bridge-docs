@@ -32,6 +32,7 @@ The plugin's **`src`** folder contains the **`common`**  subfolder with utilitie
 <br><br>
 
 The code in the plugin defines its content via the `config-builder.js` file
+
 <br>
 
 ##### File `config-builder.js`
