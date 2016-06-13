@@ -9,7 +9,7 @@
   * [1.5 Installation](about_this_application/installation.md)
   * [1.6 Project status](about_this_application/project_status.md)
   * [1.7 Color switcher](about_this_application/color_switcher.md)
-* 2. App developers tutorial](app_developers_tutorial.md)
+* [2. App developers tutorial](app_developers_tutorial.md)
   * [2.1 Introduction](app_developers_tutorial/introduction.md)
   * [2.2 Setup](app_developers_tutorial/setup.md)
   * [2.3 Select component](app_developers_tutorial/select_component.md)
