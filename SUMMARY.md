@@ -13,7 +13,7 @@
    * [2.1 Introduction](app_developers_tutorial/introduction.md)
    * [2.2 Setup](app_developers_tutorial/setup.md)
    * [2.3 Select component](app_developers_tutorial/select_component.md)
-   * 2.4 Button component
+   * [2.4 Button component](app_developers_tutorial/button_component.md)
    * 2.5 Slider component
    * 2.6 Collapsible component
    * 2.7 What you need to know
