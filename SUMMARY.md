@@ -18,4 +18,5 @@
    * [2.6 Collapsible component](app_developers_tutorial/collapsible_component.md)
    * [2.7 What you need to know](app_developers_tutorial/what_you_need_to_know.md)
 * App developers notes
+   * 3.1 On bundling
 
