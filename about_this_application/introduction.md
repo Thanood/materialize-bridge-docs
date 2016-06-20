@@ -11,6 +11,3 @@ This help category named **"About this application"** (the article you are readi
 
 
 This explanation will make more sense after checking the information in the category **[Bridge developers tutorials](#/help/docs/bridge_developers_tutorials/1._introduction)**, which explains the overall structure of the Aurelia plugin project which **implements** the Materialize bridge. Note that we are using the term **bridge** to point out the specific **purpose** of the Aurelia Materialize plugin project - to implement the Aurelia friendly interface / bridge to Materialize controls set.
-<br>
-<br>
-<br>
