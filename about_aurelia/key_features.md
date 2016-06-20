@@ -1,4 +1,4 @@
-# 1. Key features
+# Key features
 <br>
 
 #### Modern Architecture
