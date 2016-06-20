@@ -22,4 +22,5 @@
 * [4. About Aurelia](about_aurelia.md)
    * [Key Features](about_aurelia/key_features.md)
 * [About Materialize](about_materialize.md)
+   * Integrated with Aurelia
 
