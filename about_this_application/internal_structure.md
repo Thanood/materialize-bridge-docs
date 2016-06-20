@@ -256,7 +256,7 @@ As [mentioned before](#anch1) Aurelia-Materialize-Bridge has a special structure
 
 * **orange**: Materialize controls hosted by this sample app (these controls are the consumers of the Aurelia-Materialize-Bridge)
 
-* **bluish**: Standard Aurelia application files collection
+* **blueish**: Standard Aurelia application files collection
 
 <br>
 
