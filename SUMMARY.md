@@ -20,7 +20,7 @@
 * [3. App developers notes](app_developers_notes.md)
    * [3.1 On bundling](app_developers_notes/on_bundling.md)
 * [4. About Aurelia](about_aurelia.md)
-   * [Key Features](about_aurelia/key_features.md)
+   * [4.1 Key Features](about_aurelia/key_features.md)
 * [About Materialize](about_materialize.md)
    * [Integrated with Aurelia](about_materialize/integrated_with_aurelia.md)
 
