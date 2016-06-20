@@ -20,5 +20,5 @@
 * [3. App developers notes](app_developers_notes.md)
    * [3.1 On bundling](app_developers_notes/on_bundling.md)
 * [About Aurelia](about_aurelia.md)
-   * Key Features
+   * [Key Features](about_aurelia/key_features.md)
 
