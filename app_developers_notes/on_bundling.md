@@ -36,7 +36,7 @@ bridge as well as its html and css files. Such a configuration would look like t
 ```
 
 An even better solution is to only include the bridge (without its own dependencies)
-in a seperate bundle. The following example is taken from the catalog app you're
+in a separate bundle. The following example is taken from the catalog app you're
 currently looking at:
 
 ```json
