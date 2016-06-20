@@ -1,4 +1,4 @@
-# 2. Why Choose Materialize
+# Why Choose Materialize
 <br>
 
 ***Note: each of the enumerated advantages below have to be augmented by a lot of Aurelia specific added advantages***
