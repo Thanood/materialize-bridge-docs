@@ -14,4 +14,3 @@ This explanation will make more sense after checking the information in the cate
 <br>
 <br>
 <br>
-#### We suggest to read the [Navigation page](#/help/docs/about_this_application/2._navigation_guide) next.
