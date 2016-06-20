@@ -1,4 +1,4 @@
-# 1. Integrated with Aurelia
+# Integrated with Aurelia
 
 <br>
 
