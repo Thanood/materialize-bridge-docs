@@ -18,7 +18,7 @@ is chosen to indicate the order of reading in most situations. This article prov
 
 This section which starts with [introduction](#/help/docs/about_this_application/1._introduction) is the collection of articles explaining the purpose and structure of this **[Aurelia Materialize Components Catalog application](http://aurelia-ui-toolkits.github.io/aurelia-materialize-catalog/)**. The gist of this collection of articles is:
 
-* If you are a developer looking for a well balanced set of UI components for Aurelia - check the **[catalog of components](http://aurelia-ui-toolkits.github.io/aurelia-materialize-catalog/#/samples)**.
+* If you are a developer looking for a well balanced set of UI components for Aurelia - check the **[catalog of components](http://aurelia-ui-toolkits.github.io/demo-materialize/#/project-status)**.
 
 * If you are a developer already knowing about this set of UI components for Aurelia - check **[App developers tutorials](#/help/docs/app_developers_tutorials/1._introduction)**
 
