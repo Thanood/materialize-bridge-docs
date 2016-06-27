@@ -15,7 +15,7 @@ Clicking on the **Color switcher** below the main navigation bar opens a color s
 
 As a default the colors from Materialize website are chosen.
 
-Selecting a primary and accent color results of the application and all elementsof its **[Components catalog](#/samples)**  be rendered using the selected colors. Hues are rendered according to the [Material design specs](https://www.google.com/design/spec/style/color.html#color-color-palette).
+Selecting a primary and accent color results of the application and all elements of its **[Components catalog](http://aurelia-ui-toolkits.github.io/demo-materialize/#/project-status)**  be rendered using the selected colors. Hues are rendered according to the [Material design specs](https://www.google.com/design/spec/style/color.html#color-color-palette).
 
 <br>
 
