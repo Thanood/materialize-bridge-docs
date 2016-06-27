@@ -23,7 +23,7 @@ and subsequently browse to http://localhost:9000, resulting with the following:
  Image 1
 </p>
 
-Next, install aurelia-materialize-bridge as described in the [installation instructions](#/installation) (Image 3 below):
+Next, install aurelia-materialize-bridge as described in the [installation instructions](http://aurelia-ui-toolkits.github.io/demo-materialize/#/installation) (Image 3 below):
 <br>
 
 <p align=center>
