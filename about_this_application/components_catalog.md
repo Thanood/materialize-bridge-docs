@@ -14,7 +14,7 @@ This is the most likely fashion this application is being used. Invoked via URL:
 
 #### 2.1 Browsing the catalog
 
-The click on **Components** menu item (as shown on Image 1 above) results in showing the Aurelia Materialize bridge components overview. Clicking on one of the components, a sample page is shown, containing a basic use example and more insteresting options along with a **side-nav navigation** on the left edge, showing the other available components.
+The click on **Project status** menu item (as shown on Image 1 above) results in showing the Aurelia Materialize bridge components overview. Clicking on one of the components, a sample page is shown, containing a basic use example and more insteresting options along with a **side-nav navigation** on the left edge, showing the other available components.
 
 That **side-nav** mimics the side-nav of [Materialize website](http://materializecss.com/) to be easy recognizable by Materialize users.
 <br>
