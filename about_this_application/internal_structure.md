@@ -26,7 +26,7 @@ Image 2
 
 
 The plugin's **`src`** folder contains the **`common`**  subfolder with utilities used by more than one Materialize component "wrapped" by this plugin. In addition to the just described utility of the **`common`** folder, the **`src`** folder contains a subfolder for each of the Materialize components that is wrapped by this plugin.
-<br>
+<br/>
 
 **Note:** At the time of writing this, not all components have been implemented. There are more available than this screenshot shows.
 <br><br>
