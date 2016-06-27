@@ -8,7 +8,7 @@ The <a href="http://aurelia-ui-toolkits.github.io/demo-materialize/#/installatio
 
 
 
-The screen shot below depicts the Aurelia-Materialize bridge **[Installation page](#/installation)**
+The screen shot below depicts the Aurelia-Materialize bridge <a href="http://aurelia-ui-toolkits.github.io/demo-materialize/#/installation" target="_top">Installation page</a>
 
 <br>
 
