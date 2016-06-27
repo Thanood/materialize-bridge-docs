@@ -16,13 +16,12 @@ is chosen to indicate the order of reading in most situations. This article prov
 
 #### About this application
 
-This section which starts with [introduction](./introduction.md) is the collection of articles explaining the purpose and structure of this **[Aurelia Materialize Components Catalog application](http://aurelia-ui-toolkits.github.io/aurelia-materialize-catalog/)**. The gist of this collection of articles is:
+This section which starts with [introduction](./introduction.md) is the collection of articles explaining the purpose and structure of this **[Aurelia Materialize Components Catalog application](http://aurelia-ui-toolkits.github.io/demo-materialize/)**. The gist of this collection of articles is:
 
 * If you are a developer looking for a well balanced set of UI components for Aurelia - check the **[catalog of components](http://aurelia-ui-toolkits.github.io/demo-materialize/#/project-status)**.
 
-* If you are a developer already knowing about this set of UI components for Aurelia - check **[App developers tutorials](#/help/docs/app_developers_tutorials/1._introduction)**
+* If you are a developer already knowing about this set of UI components for Aurelia - check **[App developers tutorials](../app_developers_tutorial/introduction.md)**
 
-* If you are a potential contributor to this project or any other bridge - check **[Bridge developers tutorials](#/help/docs/bridge_developers_tutorials/1._introduction)** as well as **[Bridge developers notes](#/help/docs/bridge_developers_notes/1._introduction)**.
 <br><br>
 
 #### Navigation guide
@@ -42,7 +41,7 @@ This section is provided as a help to developers that are familiar with **[Aurel
 
 #### App developers tutorials
 
-This section starts with the well known **[Aurelia Skeleton Navigation](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-es2016)** augmented by **[Aurelia Materialize-Bridge](https://github.com/aurelia-ui-toolkits/materialize-app-developers-tutorial)**. That application which will be created from scratch in the **App developers tutorials**. and teaches you how to add four chosen Aurelia Materialize **components** (`select`, `button`, `slider` and `collapsible`).
+This section starts with the well known **[Aurelia Skeleton Navigation](https://github.com/aurelia/skeleton-navigation/tree/master/)** augmented by **[Aurelia Materialize-Bridge](https://github.com/aurelia-ui-toolkits/materialize-app-developers-tutorial)**. That application which will be created from scratch in the **App developers tutorials**. and teaches you how to add four chosen Aurelia Materialize **components** (`select`, `button`, `slider` and `collapsible`).
 <br><br>
 
 #### Bridge developers tutorials
