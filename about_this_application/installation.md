@@ -1,7 +1,7 @@
 # Installation
 <br>
 
-The **[Installation page](#/installation)** <a href="#/installation" target="_top">ip</a> contains a detailed description on how to install Aurelia-Materialize bridge.
+The <a href="http://aurelia-ui-toolkits.github.io/demo-materialize/#/installation" target="_top">Installation page</a> contains a detailed description on how to install Aurelia-Materialize bridge.
 
 ----------
 
