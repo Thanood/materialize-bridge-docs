@@ -16,7 +16,7 @@ is chosen to indicate the order of reading in most situations. This article prov
 
 #### About this application
 
-This section which starts with [introduction](./about_this_application/introduction.md) is the collection of articles explaining the purpose and structure of this **[Aurelia Materialize Components Catalog application](http://aurelia-ui-toolkits.github.io/aurelia-materialize-catalog/)**. The gist of this collection of articles is:
+This section which starts with [introduction](./introduction.md) is the collection of articles explaining the purpose and structure of this **[Aurelia Materialize Components Catalog application](http://aurelia-ui-toolkits.github.io/aurelia-materialize-catalog/)**. The gist of this collection of articles is:
 
 * If you are a developer looking for a well balanced set of UI components for Aurelia - check the **[catalog of components](http://aurelia-ui-toolkits.github.io/demo-materialize/#/project-status)**.
 
