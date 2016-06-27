@@ -28,7 +28,7 @@ That **side-nav** mimics the side-nav of [Materialize website](http://materializ
 
 <br>
 
-Selecting the **Collapsible** side-nav item, results with the the view of the collapsible page of this catalog (as shown above).
+Selecting the **Collapsible** side-nav item, results with the view of the collapsible page of this catalog (as shown above).
 
 Note the additional sidebar offering implementation options for the current component.
 
