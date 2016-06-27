@@ -44,12 +44,7 @@ This section is provided as a help to developers that are familiar with **[Aurel
 This section starts with the well known **[Aurelia Skeleton Navigation](https://github.com/aurelia/skeleton-navigation/tree/master/)** augmented by **[Aurelia Materialize-Bridge](https://github.com/aurelia-ui-toolkits/materialize-app-developers-tutorial)**. That application which will be created from scratch in the **App developers tutorials**. and teaches you how to add four chosen Aurelia Materialize **components** (`select`, `button`, `slider` and `collapsible`).
 <br><br>
 
-#### Bridge developers tutorials
-
-This section starts with the (practically empty) **[Aurelia Skeleton plugin](https://github.com/aurelia/skeleton-plugin)** and shows how to create the **[Aurelia Materialize bridge](https://github.com/aurelia-ui-toolkits/materialize-app-developers-tutorial)**, which is being used in **App developers tutorials** section.
-<br><br>
-
-#### Bridge developers notes
+#### App developers notes
 
 Due to relative complexity of some of **[Aurelia Materialize bridge](https://github.com/aurelia-ui-toolkits/aurelia-materialize-bridge)** components, this section contains the selected collection of notes that are useful to developers that want to contribute to the future development of Aurelia Materialize bridge.
 <br><br>
