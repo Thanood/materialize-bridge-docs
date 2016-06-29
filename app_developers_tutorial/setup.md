@@ -120,6 +120,8 @@ As the last actions in this **Setup** section of the tutorial, you need to make 
 <br>
 
 ```javascript
+import 'materialize';
+
 export function configure(aurelia) {
   aurelia.use
     .standardConfiguration()
