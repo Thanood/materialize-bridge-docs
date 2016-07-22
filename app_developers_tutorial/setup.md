@@ -4,7 +4,7 @@
 Most people like explanations that are done in the context of doing what is just being explained - so let's do something very simple as the first step in showing how to use Materialize bridge. We will add several interesting pages rendering Materialize controls to the well known **Aurelia Skeleton Navigation**, a starter kit for building a standard navigation-style app with Aurelia.
 <br>
 
-Get it from **[here](https://github.com/aurelia/skeleton-navigation)** and use the Download ZIP method so we do not have to deal with Git issues in this simple context. After downloading this application, extract the contents of the folder named **skeleton-es2016** into the folder conveniently named `skeleton-navigation-materialize` and use the instructions to build and run this app. Specifically, assuming that you already have the NodeJS, jspm and gulp installed, this application should be running after you execute
+Get it from **[here](https://github.com/aurelia/skeleton-navigation)** and use the Download ZIP method so we do not have to deal with Git issues in this simple context. After downloading this application, extract the contents of the folder named **skeleton-esnext** into the folder conveniently named `skeleton-navigation-materialize` and use the instructions to build and run this app. Specifically, assuming that you already have the NodeJS, jspm and gulp installed, this application should be running after you execute
 <br>
 
 ```
