@@ -7,11 +7,22 @@ Most people like explanations that are done in the context of doing what is just
 Get it from **[here](https://github.com/aurelia/skeleton-navigation)** and use the Download ZIP method so we do not have to deal with Git issues in this simple context. After downloading this application, extract the contents of the folder named **skeleton-esnext** into the folder conveniently named `skeleton-navigation-materialize` and use the instructions to build and run this app. Specifically, assuming that you already have the NodeJS, jspm and gulp installed, this application should be running after you execute
 <br>
 
+**JSPM**:
+
 ```
 npm install
 jspm install
 gulp watch
 ```
+
+**webpack**:
+
+```
+npm install
+npm start
+```
+
+
 <br>
 and subsequently browse to http://localhost:9000, resulting with the following:
 <br>
