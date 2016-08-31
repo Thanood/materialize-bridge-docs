@@ -6,6 +6,9 @@ The collection of articles contained in this **App developers tutorials** help c
 
 Specifically that means how you will develop the app which "hosts" the few selected controls (`select`, `button`, `slider` and `collapsible`).
 
+<br>
+**Note**: This tutorial uses the skeleton navigation and JSPM for simplicity. The skeleton navigation delivers everything you would need for a starting application. JSPM is used so you don't need to fiddle with webpack configuration.
+
 This same application that you will build from the scratch, also exists in its finished form **[here](https://github.com/aurelia-ui-toolkits/materialize-app-developers-tutorial)**, provided as a courtesy to allow you to "peek" into some details that might have escaped you.
 <br>
 
