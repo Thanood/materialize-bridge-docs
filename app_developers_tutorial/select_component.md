@@ -15,7 +15,7 @@ To create a UI component, you need only create two files, one for each of the co
   <h4>Materialize select demo</h4>
   <div class="row">
     <div class="col s4">
-      <select md-select="selected.two-way: selectedMeal;">
+      <select md-select value.two-way="selectedMeal">
         <option>Select your meal</option>
         <option repeat.for="meal of food" model.bind="meal">
           ${meal.name}
@@ -23,7 +23,7 @@ To create a UI component, you need only create two files, one for each of the co
       </select>
     </div>
     <div show.bind="selectedMeal" class="col s4">
-      You selected: ${ selectedMeal }!
+      You selected: ${ selectedMeal.name }!
     </div>
   </div>
 </template>
