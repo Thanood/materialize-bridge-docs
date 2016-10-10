@@ -36,7 +36,7 @@ Run the following command to create an amd compatible version of Materialize.
 If this fails on Windows or if you don't want to use a bash-compatible shell, try this:
 
 ```
-  $ ./node_modules/.bin/r.js.cmd -o rbuild.js
+  $ node_modules\.bin\r.js.cmd -o rbuild.js
 ```
 
 
