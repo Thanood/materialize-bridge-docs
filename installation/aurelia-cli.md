@@ -26,6 +26,7 @@ Add the following files to your project root directory:
 and <a target="_blank" href="https://github.com/aurelia-ui-toolkits/aurelia-materialize-bridge/blob/master/build/tools/materialize-css.js">materialize-css.js</a>
 
 Run the following command to create an amd compatible version of Materialize.
+
 **Note**: run this in a bash-compatible shell like "gitbash" which comes with Git for Windows.
 
 ```
