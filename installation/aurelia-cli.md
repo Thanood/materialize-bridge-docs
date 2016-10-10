@@ -14,7 +14,11 @@ In the last step, choose to install all dependencies.
 In your project install the following via npm:
 
 ```
-  $ npm install requirejs materialize-css --save-dev
+  $ npm install requirejs --save-dev
+```
+
+```
+  $ npm install materialize-css --save
 ```
 
 Add the following files to your project root directory:
