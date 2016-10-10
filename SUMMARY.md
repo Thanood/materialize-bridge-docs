@@ -21,7 +21,7 @@
    * [3.1 On bundling](app_developers_notes/on_bundling.md)
 * [5. About Aurelia](about_aurelia.md)
    * [4.1 Key Features](about_aurelia/key_features.md)
-* [5. About Materialize](about_materialize.md)
+* [6. About Materialize](about_materialize.md)
    * [5.1 Integrated with Aurelia](about_materialize/integrated_with_aurelia.md)
    * [5.2 Why choose Materialize](about_materialize/why_choose_materialize.md)
 * [2. Installation](installation.md)
