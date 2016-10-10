@@ -9,6 +9,8 @@
    * [1.5 Installation](about_this_application/installation.md)
    * [1.6 Project status](about_this_application/project_status.md)
    * [1.7 Color switcher](about_this_application/color_switcher.md)
+* [2. Installation](installation.md)
+   * [Aurelia-CLI](installation/aurelia-cli.md)
 * [3. App developers tutorial](app_developers_tutorial.md)
    * [2.1 Introduction](app_developers_tutorial/introduction.md)
    * [2.2 Setup](app_developers_tutorial/setup.md)
@@ -24,6 +26,4 @@
 * [6. About Materialize](about_materialize.md)
    * [5.1 Integrated with Aurelia](about_materialize/integrated_with_aurelia.md)
    * [5.2 Why choose Materialize](about_materialize/why_choose_materialize.md)
-* [2. Installation](installation.md)
-   * [Aurelia-CLI](installation/aurelia-cli.md)
 
