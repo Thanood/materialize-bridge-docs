@@ -127,7 +127,6 @@ Apply the following changes to `aurelia_project/aurelia.json`:
           "progress/progress.html",
           "radio/radio.html",
           "range/range.css",
-
           "range/range.html",
           "sidenav/sidenav.css",
           "sidenav/sidenav.html",
