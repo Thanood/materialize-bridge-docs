@@ -12,7 +12,7 @@
 * [2. Installation](installation.md)
    * [Aurelia-CLI](installation/aurelia-cli.md)
    * JSPM
-   * Webpck
+   * Webpack
 * [3. App developers tutorial](app_developers_tutorial.md)
    * [2.1 Introduction](app_developers_tutorial/introduction.md)
    * [2.2 Setup](app_developers_tutorial/setup.md)
