@@ -71,7 +71,7 @@ Apply the following changes to `aurelia_project/aurelia.json`:
   },
   ```
 
-* add bundle to your `aurelia_project/aurelia.json`:
+* add this bundle to your `aurelia_project/aurelia.json`:
 
   ```json
   {
