@@ -11,7 +11,7 @@
    * [1.7 Color switcher](about_this_application/color_switcher.md)
 * [2. Installation](installation.md)
    * [Aurelia-CLI](installation/aurelia-cli.md)
-   * JSPM
+   * [JSPM](installation/jspm.md)
    * Webpack
 * [3. App developers tutorial](app_developers_tutorial.md)
    * [2.1 Introduction](app_developers_tutorial/introduction.md)
