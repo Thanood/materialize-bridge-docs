@@ -24,4 +24,5 @@
 * [5. About Materialize](about_materialize.md)
    * [5.1 Integrated with Aurelia](about_materialize/integrated_with_aurelia.md)
    * [5.2 Why choose Materialize](about_materialize/why_choose_materialize.md)
+* Installation
 
