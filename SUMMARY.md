@@ -17,7 +17,7 @@
    * [2.5 Slider component](app_developers_tutorial/slider_component.md)
    * [2.6 Collapsible component](app_developers_tutorial/collapsible_component.md)
    * [2.7 What you need to know](app_developers_tutorial/what_you_need_to_know.md)
-* [3. App developers notes](app_developers_notes.md)
+* [4. App developers notes](app_developers_notes.md)
    * [3.1 On bundling](app_developers_notes/on_bundling.md)
 * [4. About Aurelia](about_aurelia.md)
    * [4.1 Key Features](about_aurelia/key_features.md)
