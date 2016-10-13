@@ -34,7 +34,7 @@ and subsequently browse to http://localhost:9000, resulting with the following:
  Image 1
 </p>
 
-Next, install aurelia-materialize-bridge as described in the [installation instructions](installation.html).
+Next, install aurelia-materialize-bridge as described in the [installation instructions](../installation.html).
 
 Now, we want to add four additional pages to this application. These pages will show Materialize **select**, **button**, **slider** and **collapsible** components:
 
