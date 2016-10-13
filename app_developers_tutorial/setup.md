@@ -36,12 +36,12 @@ and subsequently browse to http://localhost:9000, resulting with the following:
 
 Next, install aurelia-materialize-bridge as described in the [installation instructions](https://aurelia-ui-toolkits.gitbooks.io/materialize-bridge-docs/content/installation.html).
 
-Now, we want to add several (four) additional pages to this application that would show Materialize **select**, **button**, **slider** and **collapsible** components (the last one shown below rendered in its popout variant):
+Now, we want to add four additional pages to this application. These pages will show Materialize **select**, **button**, **slider** and **collapsible** components:
 
 <p align=center>
   <img src="http://i.imgur.com/Kmi4Y3r.png" class="responsive-img"></img>
  <br><br>
- Image 2
+ Image 2 (collapsible shown rendered in its pop-out variant)
 </p>
 
 * * *
