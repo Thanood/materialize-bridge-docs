@@ -1,6 +1,6 @@
 # JSPM
 
-#### Getting the plugin
+### Getting the plugin
 
 **<span style="color: red;">Important</span>**: Make sure you run jspm version 0.16.15.
 
@@ -27,7 +27,7 @@ This contains only the *dist* folder of the materialize-css repository including
 $ jspm install materialize=github:Dogfalo/materialize
 ```
 
-#### Configure your app
+### Configure your app
 
 1. Make sure you use [manual bootstrapping](http://aurelia.io/hub.html#/doc/article/aurelia/framework/latest/app-configuration-and-startup/4). In order to do so open your `index.html` and locate the element with the attribute aurelia-app:
 
