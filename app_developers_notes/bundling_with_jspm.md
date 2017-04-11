@@ -1,6 +1,10 @@
 # Bundling with JSPM
 
-It's recommended to use the *aurelia-bundler*. The "raw" *jspm bundle* functionaliy should also work if you adapt the example configuration.
+This article describes best practices for bundling the Aurelia Materialize bridge for use with JSPM/SystemJS.
+
+It's recommended to use the *aurelia-bundler*, but the origin *jspm bundle* functionaliy should also work if you adapt the example configuration.
+
+### Install requirements
 
 ```npm install aurelia-bundler```
 
