@@ -1,30 +1,33 @@
 # JSPM
 
-#### Getting the plugin
+### Getting the plugin
 
 **<span style="color: red;">Important</span>**: Make sure you run jspm version 0.16.15.
 
 In your project install the plugin via jspm with the following command:
 
 ```
-  $ jspm install aurelia-materialize-bridge materialize
+  $ jspm install aurelia-materialize-bridge
 ```
 
-Make sure you also install Materialize. There are several options available. Not concerning forks, these are available:
+Make sure you also install [Materialize](http://materializecss.com/). There are several options available.
 
-<span style="color: red;">github</span>
-
-```
-$ jspm install materialize=github:Dogfalo/materialize
-```
-
-<span style="color: red;">npm</span>
+#### npm:materialize-css
+This is the *full* repository, including JavaScript/SASS sources and tests. Recommended if you want to extend the Materialize CSS.
 
 ```
 $ jspm install materialize-css
 ```
 
-#### Configure your app
+#### github:Dogfalo/materialize
+
+This contains only the *dist* folder of the materialize-css repository including minified bundled sources. Recommended if you don't want to extend anything.
+
+```
+$ jspm install materialize=github:Dogfalo/materialize
+```
+
+### Configure your app
 
 1. Make sure you use [manual bootstrapping](http://aurelia.io/hub.html#/doc/article/aurelia/framework/latest/app-configuration-and-startup/4). In order to do so open your `index.html` and locate the element with the attribute aurelia-app:
 
